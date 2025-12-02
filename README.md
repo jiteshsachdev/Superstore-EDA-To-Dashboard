@@ -62,8 +62,8 @@ https://drive.google.com/file/d/1iZsnTIwRopd9nz4fgsxVdtTDEPi32Nls/view?usp=shari
 ---
 
 ## 📊 Dashboard Preview Screenshots  
-*(These images are already inside your Word file.  
-Upload them later into a folder named `/screenshots` and the preview will appear.)*
+![Superstore Dashboard](dashboard_overview.jpg)
+
 
 Example placeholders:
 
